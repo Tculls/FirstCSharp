@@ -1,0 +1,15 @@
+C:\Users\tanne\OneDrive\Desktop\CodingDojoFolder\BootcampClass\C#\FirstCSharp\Hello.NETCore\bin\Debug\net6.0\Hello.NETCore.exe
+C:\Users\tanne\OneDrive\Desktop\CodingDojoFolder\BootcampClass\C#\FirstCSharp\Hello.NETCore\bin\Debug\net6.0\Hello.NETCore.deps.json
+C:\Users\tanne\OneDrive\Desktop\CodingDojoFolder\BootcampClass\C#\FirstCSharp\Hello.NETCore\bin\Debug\net6.0\Hello.NETCore.runtimeconfig.json
+C:\Users\tanne\OneDrive\Desktop\CodingDojoFolder\BootcampClass\C#\FirstCSharp\Hello.NETCore\bin\Debug\net6.0\Hello.NETCore.dll
+C:\Users\tanne\OneDrive\Desktop\CodingDojoFolder\BootcampClass\C#\FirstCSharp\Hello.NETCore\bin\Debug\net6.0\Hello.NETCore.pdb
+C:\Users\tanne\OneDrive\Desktop\CodingDojoFolder\BootcampClass\C#\FirstCSharp\Hello.NETCore\obj\Debug\net6.0\Hello.NETCore.csproj.AssemblyReference.cache
+C:\Users\tanne\OneDrive\Desktop\CodingDojoFolder\BootcampClass\C#\FirstCSharp\Hello.NETCore\obj\Debug\net6.0\Hello.NETCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanne\OneDrive\Desktop\CodingDojoFolder\BootcampClass\C#\FirstCSharp\Hello.NETCore\obj\Debug\net6.0\Hello.NETCore.AssemblyInfoInputs.cache
+C:\Users\tanne\OneDrive\Desktop\CodingDojoFolder\BootcampClass\C#\FirstCSharp\Hello.NETCore\obj\Debug\net6.0\Hello.NETCore.AssemblyInfo.cs
+C:\Users\tanne\OneDrive\Desktop\CodingDojoFolder\BootcampClass\C#\FirstCSharp\Hello.NETCore\obj\Debug\net6.0\Hello.NETCore.csproj.CoreCompileInputs.cache
+C:\Users\tanne\OneDrive\Desktop\CodingDojoFolder\BootcampClass\C#\FirstCSharp\Hello.NETCore\obj\Debug\net6.0\Hello.NETCore.dll
+C:\Users\tanne\OneDrive\Desktop\CodingDojoFolder\BootcampClass\C#\FirstCSharp\Hello.NETCore\obj\Debug\net6.0\refint\Hello.NETCore.dll
+C:\Users\tanne\OneDrive\Desktop\CodingDojoFolder\BootcampClass\C#\FirstCSharp\Hello.NETCore\obj\Debug\net6.0\Hello.NETCore.pdb
+C:\Users\tanne\OneDrive\Desktop\CodingDojoFolder\BootcampClass\C#\FirstCSharp\Hello.NETCore\obj\Debug\net6.0\Hello.NETCore.genruntimeconfig.cache
+C:\Users\tanne\OneDrive\Desktop\CodingDojoFolder\BootcampClass\C#\FirstCSharp\Hello.NETCore\obj\Debug\net6.0\ref\Hello.NETCore.dll
